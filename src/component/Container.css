@@ -1,0 +1,8 @@
+.bingkai{
+    /* background-color: salmon; */
+    border:1px solid #cccc;
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+}
